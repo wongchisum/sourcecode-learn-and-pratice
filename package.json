@@ -1,0 +1,12 @@
+{
+  "name": "sourcecode-learn-and-pratice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wongshisum/sourcecode-learn-and-pratice.git",
+  "author": "zhisen.wang <im.wongch1sum@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
